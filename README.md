@@ -2,9 +2,7 @@
 
 **Source & Compiled - https://github.com/xpboosting/8-Ball-Pool-Cheto/releases**
 
-**Source need to be fixed but it has updated offsets**
-
-**Discord: lumiel#0001**
+**Source need to be fixed but it has updated offsets (u can use compiled binary)**
 
 **Credits - backup**
 
