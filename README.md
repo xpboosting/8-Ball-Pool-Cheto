@@ -4,6 +4,4 @@
 
 **Source need to be fixed but it has updated offsets (u can use compiled binary)**
 
-**Credits - backup**
-
 **Version - 5.8.x**
