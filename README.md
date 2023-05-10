@@ -6,4 +6,4 @@
 
 **Version - 5.8.x**
 
-**if you know how to updated offsets and fix it u can Pull Request i'll accept it**
+**if you know how to update offsets and fix it u can Pull Request i'll accept it**
